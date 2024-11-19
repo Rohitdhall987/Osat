@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140759369408",
+    "project_id": "osat-a9e47",
+    "storage_bucket": "osat-a9e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140759369408:android:cfe22387702fd119abcf25",
+        "android_client_info": {
+          "package_name": "in.osat.osat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140759369408-6dkg7qrlg7is9dpbugmb1383nevrisoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.osat.osat",
+            "certificate_hash": "ae18061a84d753dce1f241aaeb852b5bd112a9cb"
+          }
+        },
+        {
+          "client_id": "140759369408-jfsh8gd0mrvip72ckh2ro8f3b1dg7gk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAec_RlqcyeqHi1bc2V9j0E0SrfVcjxIO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140759369408-jfsh8gd0mrvip72ckh2ro8f3b1dg7gk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
